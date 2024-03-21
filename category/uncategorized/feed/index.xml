@@ -22,7 +22,7 @@
 	<item>
 		<title>Hello world!</title>
 		<link>https://cpiprintdev.local/hello-world/</link>
-					<comments>https://cpiprintdev.local/hello-world/#comments</comments>
+					<comments>https://cpiprintdev.local/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[cpiadmin]]></dc:creator>
 		<pubDate>Tue, 19 Mar 2024 22:04:19 +0000</pubDate>
@@ -35,7 +35,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://cpiprintdev.local/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
